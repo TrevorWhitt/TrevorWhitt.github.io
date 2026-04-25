@@ -74,6 +74,10 @@ hr {
     float: left;
 }
 
+#ContactText {
+    font-size: rem 2.0;
+}
+
 /* Classes */
 
 .imgSizes {
