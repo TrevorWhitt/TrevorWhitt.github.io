@@ -70,4 +70,8 @@ hr {
     text-align: justify;
 }
 
+#SelfPortrait {
+    float: left;
+}
+
 /* Classes */
