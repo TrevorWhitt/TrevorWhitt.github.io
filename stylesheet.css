@@ -59,8 +59,8 @@ hr {
 
 #Header {
     text-align: center;
-    padding: 20px 10px 0px 10px;
-    
+    font-size: 1.4;
+    padding: 20px 10px 0px 10px;    
 }
 
 #PageContent {
@@ -83,4 +83,5 @@ hr {
 .imgSizes {
     height: 70%;
     width: 70%;
+    padding: 10px 10px;
 }
