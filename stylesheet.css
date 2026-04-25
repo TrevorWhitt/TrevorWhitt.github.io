@@ -75,3 +75,8 @@ hr {
 }
 
 /* Classes */
+
+.imgSizes {
+    height: 70%;
+    width: 70%;
+}
